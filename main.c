@@ -1,20 +1,3 @@
-/*
- * =====================================================================================
- *
- *       Filename:  main.c
- *
- *    Description: basic example of multi processing with fork() 
- *
- *        Version:  1.0
- *        Created:  06/03/2020 01:54:39 PM
- *       Revision:  none
- *       Compiler:  gcc
- *
- *         Author:  Leon Löchner 
- *   Organization:  
- *
- * =====================================================================================
- */
 #include <stdlib.h>
 #include <stdio.h>
 #include <sys/types.h>
